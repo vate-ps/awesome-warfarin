@@ -59,6 +59,7 @@ Software for desktop operating systems suitable for offline use or deep data tra
 
 Projects leveraging ML, data analysis, and statistical modeling (e.g., IWPC dataset) for personalized medicine.
 
+- [arene19/warfarin-docking-project](https://github.com/arene19/warfarin-docking-project) - Multi-task GNN and AutoDock Vina pipeline for VKORC1-targeted coumarin anticoagulant discovery with active-learning and REINVENT4 RL loop.
 - [cybergeist0/personalized-warfarin](https://github.com/cybergeist0/personalized-warfarin) - Jupyter Notebook predicting doses using clinical and genetic data (PharmGKB) via Random Forest.
 - [farahyusri12/Warfarin_Dose_Prediction](https://github.com/farahyusri12/Warfarin_Dose_Prediction) - Colab notebook building a linear regression model from the IWPC dataset.
 - [gianlucatruda/warfit-learn](https://github.com/gianlucatruda/warfit-learn) - Python/scikit-learn project for predicting dosage with emphasis on reproducibility.
