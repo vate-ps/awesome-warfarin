@@ -66,6 +66,7 @@ Projects leveraging ML, data analysis, and statistical modeling (e.g., IWPC data
 - [gianlucatruda/warfit-learn](https://github.com/gianlucatruda/warfit-learn) - Python/scikit-learn project for predicting dosage with emphasis on reproducibility.
 - [ifthekarhussain/warfarin-dosing-ml-tool-](https://github.com/ifthekarhussain/warfarin-dosing-ml-tool-) - End-to-end ML pipeline with an interactive Gradio prediction tool.
 - [karneslab/warfarin-machinelearning](https://github.com/karneslab/warfarin-machinelearning) - Comparison of ML models for predicting stable doses in diverse populations.
+- [ranaabdelaal/SNP-Association-Analysis-with-Warfarin-Dose](https://github.com/ranaabdelaal/SNP-Association-Analysis-with-Warfarin-Dose) - Regression-based analysis of CYP2C9 and VKORC1 SNP associations with warfarin dose variability, including HWE testing and ROC evaluation.
 - [Uche-Stephen/pgx-warfarin-ml-portfolio](https://github.com/Uche-Stephen/pgx-warfarin-ml-portfolio) - Scikit-learn pipeline with SHAP explainability and a Streamlit web app.
 
 ## Related Resources
