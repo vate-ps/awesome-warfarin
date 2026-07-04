@@ -17,12 +17,12 @@ jobs:
     name: Check for broken links
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@9c091bb20b4291c5c5b76e69f82ec4466cfbbd9b # v7.0.0
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           persist-credentials: false
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@8646ba3329f6c4661eeca37e75c6d194df1ae09f # v2.8.0
+        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
         with:
           args: --verbose --no-progress "./**/*.md"
           fail: true
